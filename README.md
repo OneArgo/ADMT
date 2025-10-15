@@ -5,6 +5,8 @@ This is [the link to ADMT actions dashboard](https://github.com/orgs/OneArgo/pro
 
 Please email argo@ucsd.edu for an invitation to join this repository.
 
+A tutorial video is available [here](https://www.youtube.com/watch?v=elE_RuWHZH0) to help you navigate and interact with the ADMT repository.
+
 # ADMT actions vs discussions
 This ADMT repository has two purposes which are (1) the collection of all ADMT action items and (2) a place for new ADMT discussions in between ADMT meetings.  These two features are distinguished within GitHub by being an ‘issue’ (sometimes also called a ‘ticket’) OR a ‘discussion’.  Only ADMT & BGC-ADMT co-chairs should create issues as these are controlled actions that result from ADMT or AST meetings.  Anyone in the ADMT is welcome to start a discussion to request feedback on future possible actions.  Please read below to learn more about how to interact with the ADMT GitHub repository.
 
